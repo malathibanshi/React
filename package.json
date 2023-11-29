@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "rect",
+  "main": "app.js",
+  "scripts": {
+    "test": "text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malathibanshi/React.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "malathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malathibanshi/React/issues"
+  },
+  "homepage": "https://github.com/malathibanshi/React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
